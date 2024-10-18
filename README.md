@@ -1,0 +1,1 @@
+# MS-Store-for-Win11-LTSC
