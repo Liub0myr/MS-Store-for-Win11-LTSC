@@ -1,1 +1,1 @@
-# MS-Store-for-Win11-LTSC
+# Just use *wsreset -i* in PowerShell
